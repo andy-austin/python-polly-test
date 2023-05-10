@@ -1,4 +1,4 @@
-# Polly Loan Payment Calculator
+# Loan Payment Calculator
 
 ## Quickstart
 
